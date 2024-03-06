@@ -1,3 +1,6 @@
 # ShillingScripts
-Curated Bash Script To Save Myself Some Time and maybe your time? 
-Peasant.sh: Dump Remote MySQL Data To Local Machine
+Preparing script to run from anywhere:
+
+1. **`chmod +x dbclone`**
+2. **`mv dbclone /usr/local/bin`**
+
